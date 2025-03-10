@@ -2,7 +2,7 @@
 
 # Publications
 
-## Journal Articles and Conference Papers
+## Journal Articles and Conference Proceedings
 
 1. **D. Björkman, H. Vincke (2019).** CERN, Geneva, Switzerland. ["High Energy Internal Beam Dump System for the Super Proton Synchrotron"](https://www.oecd-nea.org/science/wprs/egsaatif/), paper presented at *the 14th Specialists' Workshop on Shielding Aspects of Accelerators, Targets, and Irradiation Facilities (SATIF-14)*, Gyeongju, Korea, 30 October - 2 November 2018.
 
