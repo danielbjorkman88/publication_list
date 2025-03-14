@@ -22,4 +22,4 @@
 
 9. ["Advanced Monte Carlo simulations and benchmark of residual dose rate assessments in the ATLAS detector at CERN LHC"](https://nstopenresearch.org/articles/2-71/v1), 2024
 
-10. **Machine Learning-Guided Gaze Optimization Using Cost Functions and NTCP Metrics in Ocular Proton Therapy**, *Medical Physics (in review), 2025*.
+10. **Cost Function and NTCP-Based Gaze Optimization in Ocular Proton Therapy Informed by Machine Learning Predictions**, *Medical Physics (in review), 2025*.
